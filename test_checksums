@@ -1,0 +1,3 @@
+#!/bin/bash
+cd gendibar_fastqfiles/
+md5sum -c /home/fatima/checksumsENA
